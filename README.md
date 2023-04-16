@@ -7,7 +7,8 @@
  
  ## Java Advanced:
 
-- **Stacks and Queues**                             
+- **Stacks and Queues**
+- **Algorithmic Complexity**
 - **Multidimensional Arrays**
 - **Sets and Maps Advanced**
 - **Streams, Files and Directories**
