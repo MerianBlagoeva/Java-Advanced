@@ -7,7 +7,7 @@
  
  ## Java Advanced:
 
-- [**Stacks and Queues**](https://github.com/MerianBlagoeva/Java-Advanced/tree/main/Java%20Advanced/StacksAndQueues/src/Lab)
+- [**Stacks and Queues**](https://github.com/MerianBlagoeva/Java-Advanced/tree/main/Java%20Advanced/StacksAndQueues/src)
 - **Algorithmic Complexity**
 - **Multidimensional Arrays**
 - **Sets and Maps Advanced**
