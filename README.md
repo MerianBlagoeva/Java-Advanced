@@ -14,7 +14,7 @@
 - **Streams, Files and Directories**
 - **Functional Programming**
 - **Defining Classes**
-- **Workshop: Custom Data Structures**
+- [**Workshop: Custom Data Structures**](https://github.com/MerianBlagoeva/CustomDataStructures)
 - **Generics**
 - **Iterators and Comparators**
 - **Workshop: Algorithms Introduction**
